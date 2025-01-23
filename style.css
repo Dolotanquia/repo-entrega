@@ -1,0 +1,212 @@
+.productos {
+  background-color: rosybrown;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
+.secondary-bg {
+  background-color: gray;
+}
+
+.contacto-bg {
+  background-color: grey;
+}
+
+main {
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 1fr;
+  row-gap: 1rem;
+}
+
+.contenedor-visita-productos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.titulo-producto {
+  text-align: center;
+  padding: 20px;
+}
+
+.card-img-top {
+  height: 300px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.parrafo {
+  padding: 20px;
+  text-align: start;
+}
+
+.productos {
+  background-color: rosybrown;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
+.secondary-bg {
+  background-color: gray;
+}
+
+.mujer-bg {
+  background-color: grey;
+}
+
+.conteiner-remeras {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.productos {
+  background-color: rosybrown;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
+.secondary-bg {
+  background-color: gray;
+}
+
+.hombre-bg {
+  background-color: grey;
+}
+
+.conteiner-remeras {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.productos {
+  background-color: rosybrown;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
+.secondary-bg {
+  background-color: gray;
+}
+
+.ubicacion-bg {
+  background-color: grey;
+}
+
+iframe {
+  width: 100%;
+  height: 400px;
+}
+
+.parrafo {
+  padding: 20px;
+  text-align: start;
+}
+
+.productos {
+  background-color: rosybrown;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.productos h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  background-color: rosybrown;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
+.secondary-bg {
+  background-color: gray;
+}
+
+.contacto-bg {
+  background-color: grey;
+}
+
+.parrafo {
+  padding: 20px;
+  text-align: start;
+}
+
+/*# sourceMappingURL=style.css.map */

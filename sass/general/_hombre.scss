@@ -1,0 +1,28 @@
+@import "../utilidades/mixin";
+
+.productos{
+    @include titulos;
+    h1{
+        text-align: center;
+        
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight:400;
+      font-style: normal;
+    }
+
+
+}
+footer{
+    @include pie-pagina;
+}
+.secondary-bg{
+    background-color: gray;
+}
+.hombre-bg{
+    background-color: grey;
+}
+.conteiner-remeras{
+    @include remeras;
+    
+}

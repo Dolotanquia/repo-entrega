@@ -1,0 +1,37 @@
+@import './variables';
+
+@mixin titulos{
+    
+    background-color: $colortitulo;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+@mixin pie-pagina{
+    text-align: center;
+    background-color: rosybrown;
+    color: white;
+    padding: 20px;
+    width: 100%;
+
+}
+@mixin contenedor{
+        vertical-align: middle;
+        justify-content: center;
+        align-items: center;
+        grid-template-columns:1fr ;
+        row-gap: 1rem;
+}
+@mixin parrafo{
+    
+    padding: 20px;
+    text-align: start;
+}
+@mixin remeras{
+    
+        display: flex;
+        justify-content:space-around ;
+        align-items:center;
+        flex-wrap: wrap 
+    }
+

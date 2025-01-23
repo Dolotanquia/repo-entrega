@@ -1,0 +1,51 @@
+@import   '../utilidades/variables';
+@import '../utilidades/mixin';
+
+.productos{
+    @include titulos;
+    h1{
+        text-align: center;
+        
+      font-family: "Playfair Display", serif;
+      font-optical-sizing: auto;
+      font-weight:400;
+      font-style: normal;
+    }
+    
+
+
+}
+footer{
+    @include pie-pagina;
+
+}
+.secondary-bg{
+    background-color: gray;
+}
+.contacto-bg{
+    background-color: grey
+}
+main {
+    @include contenedor;
+
+}
+.contenedor-visita-productos{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.titulo-producto{
+    text-align: center;
+    padding: 20px;
+}
+.card-img-top{
+    height: 300px;
+}
+.card{
+    margin-bottom: 10px;
+}
+.parrafo{
+    @include parrafo;
+}
