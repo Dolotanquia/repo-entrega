@@ -60,6 +60,10 @@ main {
   text-align: start;
 }
 
+.comprartexto {
+  color: rosybrown;
+}
+
 .productos {
   background-color: rosybrown;
   padding: 20px;
@@ -120,7 +124,7 @@ footer {
 }
 
 .secondary-bg {
-  background-color: gray;
+  background-color: rosybrown;
 }
 
 .hombre-bg {
